@@ -1,4 +1,4 @@
- fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
+
 
 try:
 	import os,requests,json,time,re,random,sys,uuid,string,subprocess,zlib,urllib
